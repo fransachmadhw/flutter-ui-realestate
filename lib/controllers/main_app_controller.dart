@@ -7,7 +7,7 @@ import 'package:get/get.dart';
 class MainAppController extends GetxController {
   RxInt currentPageIndex = 0.obs;
   final pages = [
-    const HomePage(),
+    HomePage(),
     const FavouritePage(),
     const NotificationPage(),
     const AccountPage()

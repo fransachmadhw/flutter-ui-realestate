@@ -19,6 +19,10 @@ dependencies:
   flutter_svg: ^2.0.3
   flutter_rating_bar: ^4.0.1
   custom_navigation_bar: ^0.8.2
+  country_flags: ^1.1.1
+  carousel_slider: ^4.2.1
+  full_screen_image_null_safe: ^2.0.0
+  photo_view: ^0.14.0
 
 dev_dependencies:
   flutter_test:

@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               secondary: grey500,
             ),
       ),
-      home: LoginPage1(),
+      home: const LoginPage1(),
     );
   }
 }
