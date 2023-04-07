@@ -5,7 +5,6 @@ import 'package:flutter_ui_realestate/global/color_palettes.dart';
 import 'package:flutter_ui_realestate/global/font_size.dart';
 import 'package:flutter_ui_realestate/global/sizing.dart';
 import 'package:flutter_ui_realestate/pages/main/view_photo.dart';
-import 'package:flutter_ui_realestate/widgets/button/primary_button.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';
 import 'package:carousel_slider/carousel_slider.dart';

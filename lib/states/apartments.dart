@@ -74,7 +74,7 @@ class Apartments extends GetxController {
         inFavourite: false.obs),
     Item(
         id: 8,
-        name: '1BR Apartment at 18 Residence Taman Rasuna Near Epicentrum',
+        name: 'Modern 2BR Apartment at FX Residence',
         price: 10550000,
         address:
             'Jl. Jenderal Sudirman Jl. Pintu Satu Senayan, RT.14/RW.1, Bend. Hilir, Tanah Abang, Jakarta Pusat, DKI Jakarta',

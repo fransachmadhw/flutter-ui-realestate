@@ -10,7 +10,7 @@ class MainAppController extends GetxController {
     HomePage(),
     const FavouritePage(),
     const NotificationPage(),
-    const AccountPage()
+    AccountPage()
   ];
 
   void setPageIndex(int index) {
